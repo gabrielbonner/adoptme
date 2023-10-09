@@ -4,7 +4,7 @@
 - `cd adoptme`
 - `npm i`
 - `npm run dev`
-- and then debug from there, since nothing ever runs correctly the first time 😄
+- Debug from here, since nothing ever runs correctly the first time 😄
 - visit `localhost:1234` in your browser of choice
 
 # Notes:
