@@ -1,6 +1,6 @@
 # To run locally:
 
-- `git@github.com:gabrielbonner/adoptme.git`
+- `git clone git@github.com:gabrielbonner/adoptme.git`
 - `cd adoptme`
 - `npm i`
 - `npm run dev`
